@@ -1,33 +1,4 @@
-# NAME: HBOAsia
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-04-29 13:35:34
-# DOMAIN: 16
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 2
-# USER-AGENT: 1
-# TOTAL: 20
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,TW
-DOMAIN,bcbolthboa-a.akamaihd.net,TW
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,TW
-DOMAIN,dai3fd1oh325y.cloudfront.net,TW
-DOMAIN,hboasia1-i.akamaihd.net,TW
-DOMAIN,hboasia2-i.akamaihd.net,TW
-DOMAIN,hboasia3-i.akamaihd.net,TW
-DOMAIN,hboasia4-i.akamaihd.net,TW
-DOMAIN,hboasia5-i.akamaihd.net,TW
-DOMAIN,hboasialive.akamaized.net,TW
-DOMAIN,hbogoprod-vod.akamaized.net,TW
-DOMAIN,hbolb.onwardsmg.com,TW
-DOMAIN,hbounify-prod.evergent.com,TW
-DOMAIN,players.brightcove.net,TW
-DOMAIN,s3-ap-southeast-1.amazonaws.com,TW
-DOMAIN,wmff.warnermediacdn.com,TW
-DOMAIN-SUFFIX,hbogoasia.com,TW
-DOMAIN-KEYWORD,.hbogoasia.,TW
-USER-AGENT,HBO%20GO%20PROD*,TW
-
 # NAME: 个人规则
-DOMAIN-SUFFIX,chaowg.com,DIRECT
-DOMAIN-SUFFIX,gududu.fun,DIRECT
-DOMAIN-SUFFIX,cws-project.site,DIRECT
+DOMAIN-SUFFIX,chaowg.com
+DOMAIN-SUFFIX,gududu.fun
+DOMAIN-SUFFIX,cws-project.site
